@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://www.netscape.com/newsref/std/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+passport.csdn.net	FALSE	/	FALSE		JSESSIONID	8372A2A6E299AD5093FAC55345E4D66D.tomcat1
+passport.csdn.net	FALSE	/	TRUE	1506583695	LSSC	LSSC-955167-xiQFe0IHNeuPFHmpOGpYcDHVPHGMrn-passport.csdn.net
+passport.csdn.net	FALSE	/account	FALSE		JSESSIONID	8372A2A6E299AD5093FAC55345E4D66D.tomcat1
